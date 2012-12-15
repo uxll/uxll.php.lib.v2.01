@@ -1,0 +1,16 @@
+caption:___
+appendurl:___
+method:___
+fieldsmanifest => array(
+	field0  =>  array(
+	type:type,
+	extravalue:{
+	
+	}
+)
+fieldsdisplayname => array(
+	field0:___
+)
+
+submitbtntext:___
+extrahtml:___

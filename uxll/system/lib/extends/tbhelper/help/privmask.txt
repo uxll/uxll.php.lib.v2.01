@@ -1,0 +1,9 @@
+array(
+	add => int string array
+	append => int string array
+	edit => int string array
+	update => int string array
+	remove => int string array
+	display => int string array
+	view => int string array
+)

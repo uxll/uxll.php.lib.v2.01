@@ -1,0 +1,30 @@
+第一个参数
+	Caption
+	url:{addurl,editurl,updateurl...}
+	FieldsManifest => array(
+		Field0 =>表的字段内容显示 这个显示最终在UI和模板之间进行
+		Field1 =>表的字段内容显示
+	)
+	ExtraFields => 表的字段内容显示
+	FieldsDisplayName => array(
+		Field0 => displayname
+	)
+	//AdditionalToolBar
+	ExtraHTML
+
+第二个参数
+	array(
+		add => int string array
+		append => int string array
+		edit => int string array
+		update => int string array
+		remove => int string array
+		display => int string array
+		view => int string array
+	)
+
+第三个参数
+	where
+	displayNum	分页页面上要显示的数目(页数偏移)
+	countOf		每页上的留言条数
+	order

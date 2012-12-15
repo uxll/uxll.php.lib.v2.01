@@ -1,0 +1,2 @@
+你用数组去计算MASK，它先读DESCRIPTION。然后按DESCRIPTION的顺序去排列
+calcArrayMask

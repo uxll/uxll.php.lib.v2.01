@@ -1,0 +1,7 @@
+有四种格式
+1.""
+2.array()
+3.function(){
+
+}
+4.字符串CLASS::METHOD|TEXT|FIELD0,FIELD1,...
