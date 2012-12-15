@@ -1,0 +1,114 @@
+body, p, input, h1, h2, h3, h4, h5, h6, ul, li, dl, dt, dd, form { margin:0; padding:0; list-style:none; vertical-align:middle; }
+
+body{
+	margin:0px;	
+	background:#fff;
+}
+.avatar{
+	position:absolute;
+	top:12px;
+	left:36px;
+	width:55px;
+	height:55px;
+	z-index: 22;
+	border-radius:5px;
+	overflow:hidden;
+}
+.avatar .info{
+	position:absolute;
+	top:2px;
+	left:2px;
+	text-align:center;
+	font-size:12px;
+	color:#000;
+	border:0px solid white;
+}
+.avatar .info a{
+	text-decoration:none;
+}
+.avatar .info img{
+	border:0px;
+	width:100%;
+	height:100%;
+}
+.topmenu{
+	box-shadow: 0 0 7px #000000;
+	height: 45px;
+	width: 100%;
+}
+.topmenu .floatmenu{
+	position:absolute;
+	right:50px;
+	z-index:55;	
+}
+.topmenu ul{
+	margin:0px;	
+	display:inline-block;
+	padding:0px;
+}
+.nav-menu-ft{
+	font-size:0px;	
+}
+.topmenu ul li.menuitem{
+	float:left;
+	margin-left:10px;
+	list-style-type:none;
+	margin-top:8px;
+}
+.topmenu ul li.menuitem a{
+	font:normal 13px/25px arial;
+	padding-right:8px;
+}
+.menu ol,.menu ul{
+	padding:3px;
+	margin:0px;
+	list-style-type:none;
+}
+.menu li{
+	text-align:left;
+	line-height:25px;	
+}
+.menu li a{
+	font:normal 12px/24px arial;
+	margin-left:20px;
+}
+.tbhelper-operation a{
+	margin-left:15px;
+}
+.bodywrap{
+	min-height:500px;
+}
+.jquerytheme{
+	box-shadow: 0 0 2px #555555;
+}
+.manifest-wrong-index{
+	color:#ee0000;
+	font-size:16px;
+}
+.manifest-wrong-index .ui-icon{
+	height:14px;
+}
+.replaceimg{
+	padding:3px;
+	border: 1px solid #000;	
+	display:inline-block;
+	margin: 5px  5px  5px  0px ;
+}
+.template-editor{
+	width:90%;
+	margin:25px auto;
+}
+.template-editor textarea{
+	width:100%;
+	min-height:430px;
+	border:1px solid #555;	
+	margin-bottom:18px;
+}
+.template-editor textarea:focus{
+
+	box-shadow:0 0 3px #555555;
+
+}
+.template-editor h3{
+	text-align:center;	
+}

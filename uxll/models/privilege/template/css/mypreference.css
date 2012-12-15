@@ -1,0 +1,28 @@
+.mypreference{
+	width:50%;
+	margin:25px auto;	
+	font:normal 12px/22px arial;
+}
+.mypreference fieldset{
+	padding:8px;	
+}
+.mypreference h3{
+	text-align:center;
+}
+.mypreference textarea{
+	width:98%;
+	margin:5px auto 8px auto;
+	min-height:200px;
+}
+.mypreference a{
+	text-decoration:none;
+	font:normal 12px/22px arial;
+	color:#f00;
+}
+.mypreference a.restore{
+	color:#00f;
+}
+.mypreference .registed-templatevar{
+	padding-left:5px;
+	color:red;	
+}

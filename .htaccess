@@ -1,0 +1,11 @@
+AddDefaultCharset UTF-8
+DirectoryIndex index.php
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ / [L,QSA]
+
+#RewriteEngine on  RewriteCond % !^$  
+#RewriteRule uploads/(.*).(php)$ ¨C [F]  
+#RewriteRule data/(.*).(php)$ ¨C [F]  
+#RewriteRule templets/(.*).(php)$ ¨C [F]

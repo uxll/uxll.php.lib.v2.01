@@ -1,0 +1,65 @@
+.addform{
+
+}
+.addform table.onepix{
+	margin:25px auto;
+	border-collapse:collapse;
+}
+.addform table.onepix caption{
+	font:bolder 20px/30px arial;
+}
+.addform table.onepix input[type=text]{
+	border:1px solid #555;
+	padding:2px;
+	min-width:250px;
+}
+.addform table.onepix select{
+	border:1px solid #555;
+	padding:5px;
+	min-width:150px;
+}
+.addform table.onepix input[type=text]:focus{
+	border:1px solid #008800;
+	box-shadow:0 0 3px #008800;
+}
+.addform table.onepix tr.tbhelper-null-row{
+		color:#aaa;
+}
+.addform table.onepix tr.tbhelper-null-row input{
+		border:1px solid #ddd;
+}
+.addform table.onepix tr.tbhelper-null-row input:focus{
+		border:1px solid #aaa;
+		box-shadow:0 0 3px #aaa;
+}
+.addform table.onepix tr.tbhelper-null-row textarea{
+		border:1px solid #ddd;
+}
+.addform table.onepix tr.tbhelper-null-row textarea:focus{
+		border:1px solid #aaa;
+		box-shadow:0 0 3px #aaa;
+}
+.addform table.onepix td{
+	padding:6px;
+	border:1px solid #eaeaea;
+	font: normal 12px/24px Georgia,serif;
+}
+
+
+.addform table.onepix textarea{
+	border:1px solid #555;
+	padding:2px;
+	min-width:250px;
+}
+
+.addform table.onepix textarea:focus{
+	border:1px solid #008800;
+	box-shadow:0 0 3px #008800;
+}
+.addform input[type=submit]{
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:18px;
+	padding-right:18px;
+	font:bolder 15px/25px arial;
+}

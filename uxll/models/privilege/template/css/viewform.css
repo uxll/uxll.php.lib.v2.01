@@ -1,0 +1,19 @@
+.viewform{
+
+}
+.viewform table.onepix{
+	margin:25px auto;
+	border-collapse:collapse;
+	min-width:500px;
+}
+.viewform table.onepix caption{
+	font:bolder 20px/30px arial;
+}
+.viewform table.onepix tr.tbhelper-null-row{
+		color:#aaa;
+}
+.viewform table.onepix td{
+	padding:6px;
+	border:1px solid #cccccc;
+	font: normal 12px/24px Georgia,serif;
+}
