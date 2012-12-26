@@ -71,7 +71,7 @@ class CTreeKeyPathValidator implements IValidator{
 class C2dimensionLevelDataValidator implements IValidator{
 	/**
 		[
-			[]//Ö»ÄÜ2£­3¸ö£¬Ã¿¸ö¶¼ÊÇÊı×Ö£¬Ã¿ĞĞ¶¼ÏàµÈ,¾Í2ÁĞÊÇ¼Û¸ñ
+			[]//åªèƒ½2ï¼3ä¸ªï¼Œæ¯ä¸ªéƒ½æ˜¯æ•°å­—ï¼Œæ¯è¡Œéƒ½ç›¸ç­‰,å°±2åˆ—æ˜¯ä»·æ ¼
 		
 		]
 	*/
